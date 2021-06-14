@@ -1,0 +1,21 @@
+.main{
+	font-size:25px;
+	margin-bottom:10px;
+}
+.all{
+	margin:20px auto;
+	padding:auto;
+	position:relative;
+	width:600px;
+	text-align:center;
+}
+.container{
+	padding:10px;
+	width:100%;
+	background-color:#F9F4F3;
+	font-size:18px;
+	text-transform:uppercase;
+}
+.container div{
+	padding:5px;
+}
